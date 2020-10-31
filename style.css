@@ -10,7 +10,7 @@
     overflow: auto;
 }
 
-.answersModal.modalContent {
+.modalContent {
     padding: 5px;
     border-radius:  4px;
     text-align: center;
@@ -19,14 +19,14 @@
     transition: all .3s ease;
 }
 
-.answersModal.closeButton {
+.closeButton {
     color: #D4546A;
     float: right;
     font-weight: bolder;
     font-size: 30px;
 }
 
-.answersModal.closeButton:hover, .answersModal.closeButton:focus {
+.closeButton:hover, .closeButton:focus {
     color: #B4343A;
     text-decoration: none;
     cursor: pointer;
