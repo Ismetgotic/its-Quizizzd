@@ -1,0 +1,33 @@
+.answersModal {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1337;
+    display: none;
+    position: fixed;
+    background-color: rgba(0, 0 ,0, 0.5);
+    overflow: auto;
+}
+
+.answersModal.modalContent {
+    padding: 5px;
+    border-radius:  4px;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    transition: all .3s ease;
+}
+
+.answersModal.closeButton {
+    color: #D4546A;
+    float: right;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.answersModal.closeButton:hover, .answersModal.closeButton:focus {
+    color: #B4343A;
+    text-decoration: none;
+    cursor: pointer;
+}
