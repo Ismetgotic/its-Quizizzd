@@ -1,3 +1,4 @@
+<a href="/lang/POLISH.md"> <p align="right"> <img src="https://imgur.com/ExlsHUM.png" width=32 height=32> </p> </a>
 <p align="center"> <img src="https://imgur.com/iZCuqrh.png"> </p>
 
 Quizizz'd is a simple cheat for [quizizz](https://quizizz.com) which shows you correct answers to the questions. </h1>
