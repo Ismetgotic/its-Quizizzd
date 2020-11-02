@@ -1,5 +1,3 @@
-//fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)));
-
 if (!style)
     var style = {
                 'mainModal': 'top:0; left:0; width:100%; height:100%; z-index:1337; position:fixed; color:#FFFFFF; background-color:#0000000F; overflow: auto; display:none;',
