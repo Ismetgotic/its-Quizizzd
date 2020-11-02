@@ -1,11 +1,16 @@
-var style = {
-            'mainModal': 'top:0; left:0; width:100%; height:100%; z-index:1337; position:fixed; color:#FFFFFF; background-color:#0000000F; overflow: auto; display:none;',
-            'modalContent': 'background-color:#461a42; margin:10% auto; width:90%; padding:25px; border-radius:18px; text-align:center;',
-            'closeButton': 'float:right; display:block; border-radius:20px; width:70px; height:40px; background-color:#444444; color:#D4546A; font-weight:bolder; font-size:30px; cursor:pointer;',
-            'button': 'float:left; margin-right:10px; box-sizing:border-box; display:flex; color: #FFFFFF; border-radius: 10px; background-color: #444444; width:80px; height:40px; font-weight: bolder; font-size:15px; cursor:pointer; text-align:center;',
-            'answerText': 'color:green; text-align:center; font-size:20px;'
-        },
-    url = window.location.href;
+//fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)));
+
+if (!style)
+    var style = {
+                'mainModal': 'top:0; left:0; width:100%; height:100%; z-index:1337; position:fixed; color:#FFFFFF; background-color:#0000000F; overflow: auto; display:none;',
+                'modalContent': 'background-color:#461a42; margin:10% auto; width:90%; padding:25px; border-radius:18px; text-align:center;',
+                'closeButton': 'float:right; display:block; border-radius:20px; width:70px; height:40px; background-color:#444444; color:#D4546A; font-weight:bolder; font-size:30px; cursor:pointer;',
+                'button': 'float:left; margin-right:10px; box-sizing:border-box; display:flex; color: #FFFFFF; border-radius: 10px; background-color: #444444; width:80px; height:40px; font-weight: bolder; font-size:15px; cursor:pointer; text-align:center;',
+                'answerText': 'color:green; text-align:center; font-size:20px;'
+            }
+
+if (!url)
+    var url = window.location.href;
 
 if (url.search('quizizz.com/join/game/') > 0) {
     initializeCheat(); 
