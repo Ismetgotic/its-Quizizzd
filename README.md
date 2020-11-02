@@ -8,14 +8,15 @@ Features:
  * List of all questions and answers
 
 How to use it:
-* First way:
-  * Add new bookmark with destination URL set as second command
+* As bookmarklet:
+  * Create new bookmark with destination URL set as first command
   * Press this bookmark whenever you are in game
-* Second way:
+ 
+* As console command:
   * Open console while being in game
-  * Copy first command present below
+  * Copy second command present below
   * Paste it into console and press enter.
  
 Commands:
- * <pre>fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
  * <pre>javascript:fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
+ * <pre>fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
