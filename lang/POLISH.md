@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://imgur.com/iZCuqrh.png"> </p>
+<p align="center"> <img src="https://imgur.com/KvQPIyK.png"> </p>
 
 Quizizz'd to prosty cheat do strony [quizizz](https://quizizz.com) który pokazuje poprawne odpowiedzi do pytań </h1>
 
