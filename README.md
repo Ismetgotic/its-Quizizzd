@@ -17,5 +17,5 @@ How to use it:
   * Paste it into console and press enter.
  
 Commands:
- * <h6>fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</h6>
- * <h6>javascript:fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</h6>
+ * <pre>fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
+ * <pre>javascript:fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
