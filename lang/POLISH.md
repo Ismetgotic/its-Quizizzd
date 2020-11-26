@@ -25,6 +25,6 @@ Jak tego używać:
   * Wklej ją do konsoli i zatwierdź enterem
  
 Komendy:
- * <pre>javascript:fetch('https://im-beast.github.io/scripts/quizizzCheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
- * <pre>fetch('https://im-beast.github.io/scripts/quizizzCheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
+ * <pre>javascript:fetch('https://im-beast.github.io/scripts/cheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
+ * <pre>fetch('https://im-beast.github.io/scripts/cheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
 
