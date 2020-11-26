@@ -19,5 +19,5 @@ How to use it:
   * Paste it into console and press enter.
  
 Commands:
- * <pre>javascript:fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
- * <pre>fetch('https://im-beast.github.io/files/quizizzCheat.min.js').then(response=>response.text().then(text=>eval(text)))</pre>
+ * <pre>javascript:fetch('https://im-beast.github.io/scripts/quizizzCheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
+ * <pre>fetch('https://im-beast.github.io/scripts/quizizzCheat.obf.js').then(response=>response.text().then(text=>eval(text)))</pre>
