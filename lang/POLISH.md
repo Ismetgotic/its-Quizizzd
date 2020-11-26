@@ -4,9 +4,15 @@
 Quizizz'd to prosty cheat do strony [quizizz](https://quizizz.com) który pokazuje poprawne odpowiedzi do pytań </h1>
 
 Funkcje:
- * Wsparcie dla odpowiedzi wielokrotnego wyboru
- * Wsparcie dla powtarzających się pytań
+ * Wsparcie dla:
+   * Publicznych/Prywatnych quizzów
+   * Odpowiedzi jednokrotnego/wielokrotnego wyboru
+   * Odpowiedzi tekstowych
+   * Pytań z obrazkami
+   * Odpowiedzi z obrazkami
  * Lista wszystkich pytań i odpowiedzi
+ * Podświetlacz odpowiedzi
+
 
 Jak tego używać:
 * Jako bookmarklet:
