@@ -7,7 +7,7 @@ Features:
  * Support for:
    * Public/Private quizzes
    * Single/multiple choice questions
-   * Input Text questions
+   * Text questions
    * Image questions
    * Image answers
  * List of all questions and answers
