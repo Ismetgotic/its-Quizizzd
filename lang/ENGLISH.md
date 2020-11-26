@@ -4,9 +4,13 @@
 Quizizz'd is a simple cheat for [quizizz](https://quizizz.com) which shows you correct answers to the questions. </h1>
 
 Features:
- * Support for multiple answers
- * Support for repeating questions
+ * Support for:
+   * Public/Private quizzes
+   * Single/multiple choice questions
+   * Image questions
+   * Image answers
  * List of all questions and answers
+ * Answer highlighter
 
 How to use it:
 * As bookmarklet:
