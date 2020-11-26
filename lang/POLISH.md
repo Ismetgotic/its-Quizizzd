@@ -1,7 +1,7 @@
 <a href="/lang/ENGLISH.md"> <p align="right"> <img src="https://imgur.com/9uqthTb.png" width=32 height=32> </p> </a>
 <p align="center"> <img src=""> </p>
 
-Quizizz'd to prosty cheat do strony [quizizz](https://quizizz.com) który pokazuje poprawne odpowiedzi do pytań </h1>
+Quizizz'd to prosty cheat który pokazuje poprawne odpowiedzi do pytań </h1>
 
 Funkcje:
  * Wsparcie dla:
