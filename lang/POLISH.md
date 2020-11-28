@@ -1,6 +1,6 @@
 <a href="/lang/ENGLISH.md"> <p align="right"> <img src="https://imgur.com/9uqthTb.png" width=32 height=32> </p> </a>
 <p align="center"> <img src="https://imgur.com/Q2p30xQ.png"> </p>
-<p align="center"> Make sure to read licensing for this product before usage. </p>
+<p align="center"> Przed wykorzystaniem produktu zapoznaj się z jego licencjonowaniem. </p>
 
 Quizizzd to prosty cheat który pokazuje poprawne odpowiedzi do pytań </h1>
 
