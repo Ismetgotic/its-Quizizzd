@@ -34,7 +34,7 @@
 
 <h3>Termination</h3>
 
-<p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to <span class="company_name">Beast</span>.</p>
+<p>This EULA agreement is effective from the date you first use the Software after license was published and shall continue until terminated. You may terminate it at any time upon written notice to <span class="company_name">Beast</span>.</p>
 
 <p>It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.</p>
 
