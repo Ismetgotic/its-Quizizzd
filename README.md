@@ -24,5 +24,5 @@ How to use it:
   * Paste it into console and press enter.
  
 Commands:
- * <pre>javascript:fetch('https://im-beast.github.io/scripts/cheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
- * <pre>fetch('https://im-beast.github.io/scripts/cheat.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
+ * <pre>javascript:fetch('https://im-beast.github.io/scripts/script.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
+ * <pre>fetch('https://im-beast.github.io/scripts/script.obf.js').then(r=>r.text().then(t=>eval(t)))</pre>
