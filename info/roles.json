@@ -1,0 +1,38 @@
+{
+  "780865958621216780": {
+    "name": "developer",
+    "displayName": "👨‍💻 Developer",
+    "color": "#eb6060",
+    "priority": 4
+  },
+  "788750915636166666": {
+    "name": "moderator+",
+    "displayName": "👀 Moderator+",
+    "color": "#e74c3c",
+    "priority": 4
+  },
+  "783762025947725894": {
+    "name": "moderator",
+    "displayName": "👀 Moderator",
+    "color": "#e7b14b",
+    "priority": 4
+  },
+  "787414214545375264": {
+    "name": "donator",
+    "displayName": "💸 Donator",
+    "color": "#4effb7",
+    "priority": 3
+  },
+  "783586672394633216": {
+    "name": "beta",
+    "displayName": "💎 Beta",
+    "color": "#83b5d1",
+    "priority": 2,
+  },
+  "783459881520070698": {
+    "name": "booster",
+    "displayName": "🚀 Server Booster",
+    "color": "#ef55f0",
+    "priority": 1
+  }
+}
