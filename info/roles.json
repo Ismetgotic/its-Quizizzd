@@ -8,13 +8,13 @@
       "name": "developer",
       "displayName": "👨‍💻 Developer",
       "color": "#eb6060",
-      "priority": 4
+      "priority": 6
     },
     "788750915636166666": {
       "name": "moderator+",
       "displayName": "👀 Moderator+",
       "color": "#e74c3c",
-      "priority": 4
+      "priority": 5
     },
     "783762025947725894": {
       "name": "moderator",
