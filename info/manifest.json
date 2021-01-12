@@ -3,7 +3,13 @@
     "description": "Made by Beast#6968, Cyjanek#8892 with big help from lldvee#5852",
     "version": "2.0",
     "background": {
-        "scripts": [ "./src/background/background.js" ],
+        "scripts": [ 
+            "./src/background/errorHandler.js",
+            "./src/background/user.js",
+            "./src/background/settings.js",
+            "./src/background/quiz.js",
+            "./src/background/manager.js"
+        ],
         "persistent": true
     },
     "options_page": "./src/options/index.html",
