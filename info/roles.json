@@ -39,6 +39,12 @@
       "displayName": "🚀 Server Booster",
       "color": "#ef55f0",
       "priority": 1
+    },
+    "783101561466257438": {
+      "name": "member",
+      "displayName": "👨 Member",
+      "color": "#dac3af",
+      "priority": 0
     }
   }
 }
