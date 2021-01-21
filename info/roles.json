@@ -1,6 +1,6 @@
 {
   "settings": {
-    "bypass": [6,5,4,2],
+    "bypass": [6,5,4,2, -1],
     "noAds": [3]
   },
   "roles": {
