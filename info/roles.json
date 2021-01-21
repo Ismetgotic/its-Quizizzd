@@ -45,6 +45,12 @@
       "displayName": "👨 Member",
       "color": "#dac3af",
       "priority": 0
+    },
+    "801801733768478771": {
+      "name": "bypass",
+      "displayName": "👨 Member",
+      "color": "#dac3af",
+      "priority": -1
     }
   }
 }
